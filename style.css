@@ -1,0 +1,14 @@
+body {
+    font-size: 30px;
+    background-size: 20px 20px;
+    background-image:
+      linear-gradient(to right, rgb(67, 80, 67) , transparent 1px),
+      linear-gradient(to bottom, rgb(67, 80, 67) , transparent 1px);
+    background-color: rgb(28, 31, 28);
+    color: rgb(175, 253, 185);
+    font-family: 'Ubuntu', sans-serif,;
+    text-align: center;
+} 
+h6 {
+    margin-top: 30%;
+}
